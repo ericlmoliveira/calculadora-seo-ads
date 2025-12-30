@@ -127,7 +127,7 @@ st.markdown("""
 st.markdown("""
 <div style='text-align: center; padding: 2rem 0;'>
     <h1>⚙️ Calculadora de Impacto SEO Técnico x Google Ads</h1>
-    <p class='subtitle'>Desenvolvido por <strong>Eric Lima</strong> — Sites mais rápidos, anúncios mais rentáveis</p>
+    <p class='subtitle'>Desenvolvido por <strong>Eric Lima</strong> — Sites mais rápidos, anúncios mais rentáveis.</p>
     <p style='color: #ffffff; font-size: 0.95rem; max-width: 800px; margin: 0 auto;'>
         Descubra quanto você pode economizar e lucrar otimizando a performance técnica do seu site.
         Esta ferramenta calcula o impacto real do SEO Técnico no ROI das suas campanhas Google Ads.
@@ -432,4 +432,5 @@ st.markdown("""
 </div>
 
 """, unsafe_allow_html=True)
+
 
