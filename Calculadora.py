@@ -422,7 +422,7 @@ st.markdown("""
     <strong>Eric Lima</strong> | Especialista em SEO Técnico<br>
     Otimização de Performance • Core Web Vitals • Google Ads ROI<br>
     <br>
-    <a href='https://www.linkedin.com/in/seu-perfil' target='_blank' style='color: #00cc66; text-decoration: none; font-weight: 600;'>
+    <a href='https://www.linkedin.com/in/ericlmoliveira' target='_blank' style='color: #00cc66; text-decoration: none; font-weight: 600;'>
         🔗 Conecte-se no LinkedIn
     </a>
     <br><br>
@@ -430,4 +430,5 @@ st.markdown("""
         Esta calculadora usa fórmulas baseadas em dados reais de mercado e estudos de performance web.
     </span>
 </div>
+
 """, unsafe_allow_html=True)
